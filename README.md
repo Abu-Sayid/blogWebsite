@@ -11,6 +11,6 @@ npm init
 
 npm i
 
-node index.js
+node server.js
 
-In New terminal, run node server.js
+In New terminal, run node index.js
