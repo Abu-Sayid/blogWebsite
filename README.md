@@ -1,7 +1,7 @@
 # blogWebsite
 A blogging website for users to write, edit and delete posts
 
-To launch your react project in your browser
+To launch your react project in your browser,
 
 Download Node.js
 
