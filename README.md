@@ -1,20 +1,21 @@
 # blogWebsite
-A blogging website for users to write, edit and delete posts
+A blogging website for users to write, edit and delete posts.
 
 Features:
 
-Integration with external APIs
+Integration with external APIs.
 
 To launch your react project in your browser,
 
-Download Node.js
+1. Download Node.js
 
-If you're running this locally in VS Code use the commands:
+2. If you're running this locally in VS Code use the commands:
 
-npm init
+        npm i
 
-npm i
+// to install the node module
 
-node server.js
+    node server.js
 
-In New terminal, run node index.js
+3. In New terminal run,
+    node index.js
