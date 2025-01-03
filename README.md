@@ -18,4 +18,4 @@ To launch your react project in your browser,
     node server.js
 
 3. In New terminal run,
-    node index.js
+        node index.js
