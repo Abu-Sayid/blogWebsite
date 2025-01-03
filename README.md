@@ -3,6 +3,8 @@ A blogging website for users to write, edit and delete posts.
 
 Features:
 
+Build an own API.
+
 Integration with external APIs.
 
 To launch your react project in your browser,
