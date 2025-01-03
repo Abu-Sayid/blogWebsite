@@ -1,6 +1,8 @@
 # blogWebsite
 A blogging website for users to write, edit and delete posts
+
 Features:
+
 Integration with external APIs
 
 To launch your react project in your browser,
